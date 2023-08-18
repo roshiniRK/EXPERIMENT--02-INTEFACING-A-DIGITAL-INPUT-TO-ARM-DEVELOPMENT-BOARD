@@ -89,6 +89,8 @@ void push_button()
 }
 ```
 ## Output :
+![261598002-4c074d82-c115-44a8-8997-42a85c064d66](https://github.com/roshiniRK/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118956165/a883bc84-a3a0-41ff-a143-5ed85aae78e9)
+
 ![261598195-d78d0092-1365-409c-8825-ee2cee7539fc](https://github.com/roshiniRK/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/118956165/b9e1e2a2-ef3b-4780-bee2-c6eae7e5d0d2)
  
 ## Result :
