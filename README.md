@@ -88,7 +88,7 @@ void push_button()
 	}
 }
 ```
-## Output  :
+## Output :
 ![261598002-4c074d82-c115-44a8-8997-42a85c064d66]
 
  
